@@ -2,4 +2,4 @@
 
 It plays given melody.
 
-![Here is the design.](https://www.hizliresim.com/o5tdqff)
+!(https://github.com/hartigan8/music-player/blob/master/design.jpg?raw=true)
